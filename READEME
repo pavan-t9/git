@@ -1,5 +1,6 @@
 Hello , GIT 
+<<<<<<< HEAD
 Learning git is fun 
-
-
-This is the master branchv
+=======
+This is the master branch
+>>>>>>> master
